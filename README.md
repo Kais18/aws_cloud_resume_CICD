@@ -20,9 +20,6 @@ This is the complete architecture and workflow of cloud resume known as portfoli
 ## [Live Demo 🔗](https://www.kaiswork.shop)
 The Live Demo is up click on the "Live Demo"
 
-## Blog Series
-- 1. [What is the Cloud Resume/ Portfolio?](https://dev.to/aws-builders/what-is-the-cloud-resume-challenge-ma5)
-
 
 ## Author
 - Twitter: [@kaissssssss08](https://twitter.com/kaissssssss08)
